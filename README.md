@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/priyan37/">
+  <a href="https://www.linkedin.com/in/priyadharshan-vadivel/">
     <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/priyan37">
+  <a href="https://github.com/priyadharshan-vadivel">
     <img alt="GitHub" title="GitHub Profile" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://sites.google.com/view/priyan37" target="_blank">
